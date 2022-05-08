@@ -1,7 +1,6 @@
 
 <p align="center">
-  <img src="Screenshot (474).png" width="5000" title="hover text">
-  
+  <img src="Screenshot (474).png" width="3000" title="hover text">  
 </p>
 
 <h1 align="center">Hi 👋, I'm Aman Khan</h1>
