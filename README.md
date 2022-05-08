@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-aman-khan&label=Profile%20views&color=0e75b6&style=flat" alt="iam-aman-khan" /> </p>
+<img align="right" alt="Coding" width="400" src="https://www.webcareindia.com/images/website-designing.gif">
 
 - 🔭 I’m currently working on **Natural Language Processing**
 
