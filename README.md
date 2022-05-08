@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <p align="center">
-  <img src="https://iam-aman-khan.github.io/banners/" width="350" title="hover text">
+  <img src="Screenshot (474).png" width="350" title="hover text">
   
 </p>
 
