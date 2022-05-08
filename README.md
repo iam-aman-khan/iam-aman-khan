@@ -1,7 +1,6 @@
 
-<p align="center">
-  <img src="Screenshot (474).png" width="500" title="hover text">  
-</p>
+![Design and Development](https://github.com/iam-aman-khan/iam-aman-khan/blob/main/Screenshot%20(474).png)
+
 
 <h1 align="center">Hi 👋, I'm Aman Khan</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
