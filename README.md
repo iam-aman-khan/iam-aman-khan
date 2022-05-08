@@ -1,5 +1,5 @@
 
-![Design and Development](https://github.com/iam-aman-khan/iam-aman-khan/blob/main/Screenshot%20(474).png)
+![Design and Development](https://github.com/iam-aman-khan/iam-aman-khan/blob/main/Screenshot%20(475).png)
 
 
 <h1 align="center">Hi 👋, I'm Aman Khan</h1>
